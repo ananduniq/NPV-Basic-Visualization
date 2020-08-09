@@ -1,4 +1,3 @@
-# PGP Data Science Engineering
 # Numpy, Pandas, Visualization – Mini Project
 
 
